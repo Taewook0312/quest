@@ -60,7 +60,7 @@
 param_grid = {
     'n_estimators': [50, 100],
     'max_depth': [1, 10],
-    num_boost_round, learning_rate
+    num_boost_round, learning_rate등등..
 }
 
 ```
