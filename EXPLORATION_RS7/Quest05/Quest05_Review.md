@@ -10,7 +10,10 @@
     퀘스트 문제 요구조건 등을 지칭
         - 해당 조건을 만족하는 코드를 캡쳐해 근거로 첨부
           ![image](https://github.com/Eunssong/quest_taewook/assets/134351442/810a51e0-618a-42be-a1ab-593e61ed2565)
-          ![image](https://github.com/Eunssong/quest_taewook/assets/134351442/70fa8e26-8050-478f-ba40-a5fd30ff5ef4)
+          ![image](https://github.com/Eunssong/quest_taewook/assets/134351442/885a9fb3-e533-41a1-af9d-178efb287291)
+          ![image](https://github.com/Eunssong/quest_taewook/assets/134351442/d59cd29b-bb96-42cd-8191-c61c97cfc147)
+          ![image](https://github.com/Eunssong/quest_taewook/assets/134351442/9cf8fd2a-d0ae-45e0-8f07-e71ccaa2fba2)
+          ![image](https://github.com/Eunssong/quest_taewook/assets/134351442/70fa8e26-8050-478f-ba40-a5fd30ff5ef4) 
 
 
     
@@ -29,7 +32,8 @@
     - 문제에서 요구하는 조건에 더해 추가적으로 수행한 나만의 시도, 
     실험이 기록되어 있는지 확인
         - 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부합니다.
-          ![image](https://github.com/Eunssong/quest_taewook/assets/134351442/d9188b4f-e048-4cc5-94f5-13c8c209ec0a)
+          ![image](https://github.com/Eunssong/quest_taewook/assets/134351442/7e4c1223-4380-4005-b38a-5841094d8f64)  
+
 
         
 - [ ]  **4. 회고를 잘 작성했나요?**
