@@ -13,7 +13,7 @@
           ![image](https://github.com/Eunssong/quest_taewook/assets/134351442/885a9fb3-e533-41a1-af9d-178efb287291)
           ![image](https://github.com/Eunssong/quest_taewook/assets/134351442/d59cd29b-bb96-42cd-8191-c61c97cfc147)
           ![image](https://github.com/Eunssong/quest_taewook/assets/134351442/9cf8fd2a-d0ae-45e0-8f07-e71ccaa2fba2)
-          ![image](https://github.com/Eunssong/quest_taewook/assets/134351442/70fa8e26-8050-478f-ba40-a5fd30ff5ef4) 
+          ![image](https://github.com/Eunssong/quest_taewook/assets/134351442/70fa8e26-8050-478f-ba40-a5fd30ff5ef4)   
 
 
     
