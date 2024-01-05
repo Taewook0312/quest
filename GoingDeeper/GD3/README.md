@@ -1,6 +1,6 @@
 # AIFFEL Campus Online Code Peer Review Templete
 - 코더 : 장태욱
-- 리뷰어 : 
+- 리뷰어 : 방은송
 
 
 # PRT(Peer Review Template)
@@ -9,9 +9,12 @@
     - 문제를 해결하는 완성된 코드란 프로젝트 루브릭 3개 중 2개, 
     퀘스트 문제 요구조건 등을 지칭
         - 해당 조건을 만족하는 코드를 캡쳐해 근거로 첨부
-      
-          
 
+    ![image](https://github.com/Taewook0312/quest/assets/134351442/6d2b6bdb-7703-4fbf-b0e6-7d57f5c9b726)
+
+    ![image](https://github.com/Taewook0312/quest/assets/134351442/3607ef0a-d9c2-4b53-8b6e-3851439000c1)
+  
+    ![image](https://github.com/Taewook0312/quest/assets/134351442/4a52b1fb-2937-4ec8-92d8-3b4bdd60c1bc)
 
     
 - []  **2. 전체 코드에서 가장 핵심적이거나 가장 복잡하고 이해하기 어려운 부분에 작성된 
@@ -21,6 +24,7 @@
     - 주석을 보고 코드 이해가 잘 되었는지 확인
         - 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부합니다.
 
+![image](https://github.com/Taewook0312/quest/assets/134351442/f5a6a0f2-ea61-4baa-86f1-2a08a582d3aa)
 
         
 - []  **3. 에러가 난 부분을 디버깅하여 문제를 “해결한 기록을 남겼거나” 
@@ -30,7 +34,9 @@
     실험이 기록되어 있는지 확인
         - 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부합니다.
       - 출력을 하며 디버깅한 것으로 보임
+     
         
+    ![image](https://github.com/Taewook0312/quest/assets/134351442/08a0e266-96e7-4afa-af93-e67123aa5d72)
 
         
 - []  **4. 회고를 잘 작성했나요?**
@@ -38,6 +44,9 @@
     배운점과 아쉬운점, 느낀점 등이 기록되어 있는지 확인
     - 전체 코드 실행 플로우를 그래프로 그려서 이해를 돕고 있는지 확인
         - 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부합니다.
+     
+    ![image](https://github.com/Taewook0312/quest/assets/134351442/d39f13aa-d3ee-409b-b7b3-d504726d7bc4)
+
   
         
 - []  **5. 코드가 간결하고 효율적인가요?**
@@ -45,6 +54,9 @@
     - 하드코딩을 하지않고 함수화, 모듈화가 가능한 부분은 함수를 만들거나 클래스로 짰는지
     - 코드 중복을 최소화하고 범용적으로 사용할 수 있도록 함수화했는지
         - 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부합니다.
+     
+    ![image](https://github.com/Taewook0312/quest/assets/134351442/a1b6274d-17a0-4bfe-8baf-ff2dfa33fda8)
+
  
 
 
